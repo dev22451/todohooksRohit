@@ -11,7 +11,8 @@ const AddTodoInput = (props) => {
             <button
                 onClick={handleAddTodo}
             >
-                Add</button>
+                Add
+            </button>
         </div>
 
     )
